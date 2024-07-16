@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hola folks 👋<br>I'm Santosh Kumar, A Web developer</h1>
+<h1 align="center">Hola folks 👋<br>I'm Santosh Kumar, A Web Developer</h1>
 
 ###
 
