@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a student<br>- 📚 I'm currently learning MERN stack<br>- ⚡ In my free time I play video games<br>- 💬 Ask me about Web, games, movies<br>- 📫 How to reach me: kammarisantosh0723@gmail.com<br>- 😄 Pronouns: He/Him<br></p>
+<p align="left">- 🔭 I’m a student, currently pursuing B.tech - Information Technology @SNIST <br>- 📚 I'm currently learning MERN stack<br>- ⚡ In my free time I play video games<br>- 💬 Ask me about Web, games, movies<br>- 📫 How to reach me: kammarisantosh0723@gmail.com<br>- 😄 Pronouns: He/Him<br></p>
 
 ###
 
